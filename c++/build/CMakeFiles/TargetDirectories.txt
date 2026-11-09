@@ -1,0 +1,9 @@
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/structures.dir
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/structorium.dir
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/boost_tests.dir
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/gtest_tests.dir
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/catch2_tests.dir
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/benchmarks.dir
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/test.dir
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/edit_cache.dir
+/home/adiss/PROGA/3LR/c++/build/CMakeFiles/rebuild_cache.dir

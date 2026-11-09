@@ -1,0 +1,5 @@
+if(EXISTS "/home/adiss/PROGA/3LR/c++/build/catch2_tests_tests-b12d07c.cmake")
+  include("/home/adiss/PROGA/3LR/c++/build/catch2_tests_tests-b12d07c.cmake")
+else()
+  add_test(catch2_tests_NOT_BUILT-b12d07c catch2_tests_NOT_BUILT-b12d07c)
+endif()

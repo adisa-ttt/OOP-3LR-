@@ -1,0 +1,5 @@
+if(EXISTS "/home/adiss/PROGA/3LR/c++/build/gtest_tests[1]_tests.cmake")
+  include("/home/adiss/PROGA/3LR/c++/build/gtest_tests[1]_tests.cmake")
+else()
+  add_test(gtest_tests_NOT_BUILT gtest_tests_NOT_BUILT)
+endif()

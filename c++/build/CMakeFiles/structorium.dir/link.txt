@@ -1,0 +1,1 @@
+/usr/bin/c++ -g --coverage CMakeFiles/structorium.dir/src/main.cpp.o -o structorium  libstructures.a 

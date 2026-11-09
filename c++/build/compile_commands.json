@@ -1,0 +1,218 @@
+[
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -Wall -Wextra -Wpedantic -o CMakeFiles/structures.dir/src/Array.cpp.o -c /home/adiss/PROGA/3LR/c++/src/Array.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/Array.cpp",
+  "output": "CMakeFiles/structures.dir/src/Array.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -Wall -Wextra -Wpedantic -o CMakeFiles/structures.dir/src/LinkedList.cpp.o -c /home/adiss/PROGA/3LR/c++/src/LinkedList.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/LinkedList.cpp",
+  "output": "CMakeFiles/structures.dir/src/LinkedList.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -Wall -Wextra -Wpedantic -o CMakeFiles/structures.dir/src/DoubleLinkedList.cpp.o -c /home/adiss/PROGA/3LR/c++/src/DoubleLinkedList.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/DoubleLinkedList.cpp",
+  "output": "CMakeFiles/structures.dir/src/DoubleLinkedList.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -Wall -Wextra -Wpedantic -o CMakeFiles/structures.dir/src/Stack.cpp.o -c /home/adiss/PROGA/3LR/c++/src/Stack.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/Stack.cpp",
+  "output": "CMakeFiles/structures.dir/src/Stack.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -Wall -Wextra -Wpedantic -o CMakeFiles/structures.dir/src/Queue.cpp.o -c /home/adiss/PROGA/3LR/c++/src/Queue.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/Queue.cpp",
+  "output": "CMakeFiles/structures.dir/src/Queue.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -Wall -Wextra -Wpedantic -o CMakeFiles/structures.dir/src/avlTree.cpp.o -c /home/adiss/PROGA/3LR/c++/src/avlTree.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/avlTree.cpp",
+  "output": "CMakeFiles/structures.dir/src/avlTree.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -Wall -Wextra -Wpedantic -o CMakeFiles/structures.dir/src/ChainHash.cpp.o -c /home/adiss/PROGA/3LR/c++/src/ChainHash.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/ChainHash.cpp",
+  "output": "CMakeFiles/structures.dir/src/ChainHash.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -Wall -Wextra -Wpedantic -o CMakeFiles/structures.dir/src/CuckooHash.cpp.o -c /home/adiss/PROGA/3LR/c++/src/CuckooHash.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/CuckooHash.cpp",
+  "output": "CMakeFiles/structures.dir/src/CuckooHash.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/structorium.dir/src/main.cpp.o -c /home/adiss/PROGA/3LR/c++/src/main.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/src/main.cpp",
+  "output": "CMakeFiles/structorium.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_main.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_main.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_main.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_main.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_array.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_array.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_array.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_array.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_avlTree.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_avlTree.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_avlTree.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_avlTree.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_chainHash.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_chainHash.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_chainHash.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_chainHash.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_cuckooHash.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_cuckooHash.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_cuckooHash.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_cuckooHash.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_list.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_list.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_list.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_list.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_doubleLinkList.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_doubleLinkList.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_doubleLinkList.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_doubleLinkList.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_queue.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_queue.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_queue.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_queue.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_stack.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_stack.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_stack.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_stack.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++ -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/boost_tests.dir/tests/test_serialization.cpp.o -c /home/adiss/PROGA/3LR/c++/tests/test_serialization.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests/test_serialization.cpp",
+  "output": "CMakeFiles/boost_tests.dir/tests/test_serialization.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest_tests.dir/tests_google/test_array.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_google/test_array.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_google/test_array.cpp",
+  "output": "CMakeFiles/gtest_tests.dir/tests_google/test_array.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest_tests.dir/tests_google/test_avlTree.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_google/test_avlTree.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_google/test_avlTree.cpp",
+  "output": "CMakeFiles/gtest_tests.dir/tests_google/test_avlTree.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest_tests.dir/tests_google/test_chainHash.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_google/test_chainHash.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_google/test_chainHash.cpp",
+  "output": "CMakeFiles/gtest_tests.dir/tests_google/test_chainHash.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest_tests.dir/tests_google/test_cuckooHash.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_google/test_cuckooHash.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_google/test_cuckooHash.cpp",
+  "output": "CMakeFiles/gtest_tests.dir/tests_google/test_cuckooHash.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest_tests.dir/tests_google/test_doubleLinkList.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_google/test_doubleLinkList.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_google/test_doubleLinkList.cpp",
+  "output": "CMakeFiles/gtest_tests.dir/tests_google/test_doubleLinkList.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest_tests.dir/tests_google/test_list.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_google/test_list.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_google/test_list.cpp",
+  "output": "CMakeFiles/gtest_tests.dir/tests_google/test_list.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest_tests.dir/tests_google/test_queue.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_google/test_queue.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_google/test_queue.cpp",
+  "output": "CMakeFiles/gtest_tests.dir/tests_google/test_queue.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/gtest_tests.dir/tests_google/test_stack.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_google/test_stack.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_google/test_stack.cpp",
+  "output": "CMakeFiles/gtest_tests.dir/tests_google/test_stack.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/catch2_tests.dir/tests_catch2/test_array.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_catch2/test_array.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_catch2/test_array.cpp",
+  "output": "CMakeFiles/catch2_tests.dir/tests_catch2/test_array.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/catch2_tests.dir/tests_catch2/test_avlTree.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_catch2/test_avlTree.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_catch2/test_avlTree.cpp",
+  "output": "CMakeFiles/catch2_tests.dir/tests_catch2/test_avlTree.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/catch2_tests.dir/tests_catch2/test_chainHash.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_catch2/test_chainHash.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_catch2/test_chainHash.cpp",
+  "output": "CMakeFiles/catch2_tests.dir/tests_catch2/test_chainHash.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/catch2_tests.dir/tests_catch2/test_cuckooHash.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_catch2/test_cuckooHash.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_catch2/test_cuckooHash.cpp",
+  "output": "CMakeFiles/catch2_tests.dir/tests_catch2/test_cuckooHash.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/catch2_tests.dir/tests_catch2/test_doubleLinkList.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_catch2/test_doubleLinkList.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_catch2/test_doubleLinkList.cpp",
+  "output": "CMakeFiles/catch2_tests.dir/tests_catch2/test_doubleLinkList.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/catch2_tests.dir/tests_catch2/test_list.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_catch2/test_list.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_catch2/test_list.cpp",
+  "output": "CMakeFiles/catch2_tests.dir/tests_catch2/test_list.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/catch2_tests.dir/tests_catch2/test_queue.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_catch2/test_queue.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_catch2/test_queue.cpp",
+  "output": "CMakeFiles/catch2_tests.dir/tests_catch2/test_queue.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/catch2_tests.dir/tests_catch2/test_stack.cpp.o -c /home/adiss/PROGA/3LR/c++/tests_catch2/test_stack.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/tests_catch2/test_stack.cpp",
+  "output": "CMakeFiles/catch2_tests.dir/tests_catch2/test_stack.cpp.o"
+},
+{
+  "directory": "/home/adiss/PROGA/3LR/c++/build",
+  "command": "/usr/bin/c++  -I/home/adiss/PROGA/3LR/c++/inc -g -std=gnu++17 --coverage -O0 -g -o CMakeFiles/benchmarks.dir/benchmarks/benchmarks.cpp.o -c /home/adiss/PROGA/3LR/c++/benchmarks/benchmarks.cpp",
+  "file": "/home/adiss/PROGA/3LR/c++/benchmarks/benchmarks.cpp",
+  "output": "CMakeFiles/benchmarks.dir/benchmarks/benchmarks.cpp.o"
+}
+]
